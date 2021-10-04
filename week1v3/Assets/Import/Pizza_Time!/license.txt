@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pizza Time!
+* source:	https://sketchfab.com/3d-models/pizza-time-2b251df3fcdf4cf4b483633699928953
+* author:	DoobiDooba (https://sketchfab.com/DoobiDooba)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pizza Time!" (https://sketchfab.com/3d-models/pizza-time-2b251df3fcdf4cf4b483633699928953) by DoobiDooba (https://sketchfab.com/DoobiDooba) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
